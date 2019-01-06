@@ -1,0 +1,14 @@
+{
+  "name": "tejoyasha-tomcat",
+  "version": "0.1.0",
+  "author": "tejoyasha",
+  "summary": "This is dummy tomcat module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/tejoyasha/puppet-tomcat.git",
+  "project_page": "https://github.com/tejoyasha/puppet-tomcat",
+  "issues_url": "https://github.com/tejoyasha/puppet-tomcat/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
